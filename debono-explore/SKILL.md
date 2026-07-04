@@ -1,15 +1,7 @@
 ---
 name: debono-explore
-description: >-
-  De Bono's attention-directing tools for broadening perception of a situation
-  BEFORE judging, reacting, or deciding (from "de Bono's Thinking Course"). Use
-  when someone is reacting to a proposal or idea ("should we…?", "is this a good
-  idea?"), when a gut yes/no has formed too fast, when asking "what am I missing?"
-  before a plan, when weighing the future effects of a choice, or when a situation
-  involves other people's perspectives. Provides PMI (Plus/Minus/Interesting), CAF
-  (Consider All Factors), C&S (Consequence & Sequel), and OPV (Other People's
-  Views). This is the "LO / Look" stage — reach for it first whenever a view is
-  forming before the situation has actually been looked at.
+description: 
+De Bono's attention-directing tools for broadening perception of a situation BEFORE judging, reacting, or deciding (from "de Bono's Thinking Course"). Use when someone is reacting to a proposal or idea ("should we…?", "is this a good idea?"), when a gut yes/no has formed too fast, when asking "what am I missing?" before a plan, when weighing the future effects of a choice, or when a situation involves other people's perspectives. Provides PMI (Plus/Minus/Interesting), CAF (Consider All Factors), C&S (Consequence & Sequel), and OPV (Other People's Views). This is the "LO / Look" stage — reach for it first whenever a view is forming before the situation has actually been looked at.
 ---
 
 # De Bono — Explore (broaden perception)
