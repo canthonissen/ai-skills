@@ -1,16 +1,7 @@
 ---
 name: debono-create
-description: >-
-  De Bono's lateral-thinking tools for generating alternatives and genuinely new
-  ideas (from "de Bono's Thinking Course"). Use whenever someone is stuck,
-  circling the same answer, says "there must be a better way", has only one option
-  on the table, needs to brainstorm, wants to innovate or break a creative block,
-  or wants to escape an obvious-but-uninspiring solution. Provides APC
-  (Alternatives/Possibilities/Choices), Challenge, Concept Extraction, Random
-  Input, Provocation (PO) with Movement, and Reversal. This is the "PO /
-  Possibilities" stage — reach for it when the goal is to open up new options
-  rather than evaluate existing ones. For evaluating ideas, use debono-explore;
-  to flip a problem in order to avoid failure, use debono-invert.
+description:
+De Bono's lateral-thinking tools for generating alternatives and genuinely new ideas (from "de Bono's Thinking Course"). Use whenever someone is stuck, circling the same answer, says "there must be a better way", has only one option on the table, needs to brainstorm, wants to innovate or break a creative block, or wants to escape an obvious-but-uninspiring solution. Provides APC (Alternatives/Possibilities/Choices), Challenge, Concept Extraction, Random Input, Provocation (PO) with Movement, and Reversal. This is the "PO / Possibilities" stage — reach for it when the goal is to open up new options rather than evaluate existing ones. For evaluating ideas, use debono-explore; to flip a problem in order to avoid failure, use debono-invert.
 ---
 
 # De Bono — Create (alternatives & lateral thinking)
