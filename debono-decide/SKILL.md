@@ -1,16 +1,6 @@
 ---
 name: debono-decide
-description: >-
-  De Bono's tools for setting purpose, weighing options against values, and
-  choosing (from "de Bono's Thinking Course"). Use when someone needs to pin down
-  the real aim before acting, has too many factors or options and must find what
-  matters most, is making a genuine decision or choice between alternatives, or is
-  torn because feelings and values are pulling different ways. Provides AGO (Aims,
-  Goals, Objectives), FIP (First Important Priorities), an explicit Emotions &
-  Values check, and a step-by-step decision procedure that pulls the other
-  toolkits together. This is the "TO + SO" stage — defining the target and then
-  narrowing to a choice. To generate options first, use debono-create; to explore
-  a single idea, use debono-explore; to pre-mortem a choice, use debono-invert.
+description: De Bono's tools for setting purpose, weighing options against values, and choosing (from "de Bono's Thinking Course"). Use when someone needs to pin down the real aim before acting, has too many factors or options and must find what matters most, is making a genuine decision or choice between alternatives, or is torn because feelings and values are pulling different ways. Provides AGO (Aims, Goals, Objectives), FIP (First Important Priorities), an explicit Emotions & Values check, and a step-by-step decision procedure that pulls the other toolkits together. This is the "TO + SO" stage — defining the target and then narrowing to a choice. To generate options first, use debono-create; to explore a single idea, use debono-explore; to pre-mortem a choice, use debono-invert.
 ---
 
 # De Bono — Decide (focus & choose)
