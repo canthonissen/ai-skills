@@ -1,14 +1,7 @@
 ---
 name: debono-act
-description: >-
-  De Bono's "operacy" tools for turning thinking into action that actually gets
-  done (from "de Bono's Thinking Course"). Use when a decision has been made and
-  now needs executing, when someone has analysis but no plan, when "we should do
-  X" needs to become concrete steps with an owner and a first move, or when a good
-  intention keeps not happening. Provides the operacy action sequence: objective →
-  steps → first action → who/when → monitor (C&S forward) → contingency. This is
-  the "GO / do it" stage. To decide what to do, use debono-decide first; this
-  skill is for making it happen.
+description: 
+De Bono's "operacy" tools for turning thinking into action that actually gets done (from "de Bono's Thinking Course"). Use when a decision has been made and now needs executing, when someone has analysis but no plan, when "we should do X" needs to become concrete steps with an owner and a first move, or when a good intention keeps not happening. Provides the operacy action sequence: objective → steps → first action → who/when → monitor (C&S forward) → contingency. This is the "GO / do it" stage. To decide what to do, use debono-decide first; this skill is for making it happen.
 ---
 
 # De Bono — Act (operacy)
