@@ -1,16 +1,7 @@
 ---
 name: debono-thinking
-description: >-
-  Master router for Edward de Bono's deliberate-thinking toolkit (from "de Bono's
-  Thinking Course"). Use this FIRST whenever someone wants to think a problem,
-  decision, idea, or situation through deliberately — especially open-ended
-  prompts like "help me think about X", "I'm stuck on Y", "how should I approach
-  this", "think this through with me", or any mention of de Bono, lateral
-  thinking, "thinking tools", PMI, CAF, C&S, AGO, FIP, APC, or OPV. It explains
-  the TO·LO·PO·SO·GO framework and points to the right toolkit (debono-explore,
-  debono-create, debono-decide, debono-act, debono-invert). Reach for it even when
-  the user does not name a specific tool — most thinking requests benefit from a
-  deliberate structure.
+description: 
+Master router for Edward de Bono's deliberate-thinking toolkit (from 'de Bono's Thinking Course'). Use this FIRST whenever someone wants to think a problem, decision, idea, or situation through deliberately — especially open-ended prompts like 'help me think about X', 'I'm stuck on Y', 'how should I approach this', 'think this through with me', or any mention of de Bono, lateral thinking, 'thinking tools', PMI, CAF, C&S, AGO, FIP, APC, or OPV. It explains the TO·LO·PO·SO·GO framework and points to the right toolkit (debono-explore, debono-create, debono-decide, debono-act, debono-invert). Reach for it even when the user does not name a specific tool — most thinking requests benefit from a  deliberate structure.
 ---
 
 # De Bono Thinking — Router
