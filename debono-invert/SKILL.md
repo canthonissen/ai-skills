@@ -1,18 +1,7 @@
 ---
 name: debono-invert
-description: >-
-  Inversion thinking — the "think backward from failure" discipline of the
-  mathematician Carl Jacobi ("invert, always invert") and Charlie Munger, added to
-  the de Bono toolkit. Use whenever a choice carries real downside or risk, when
-  someone asks "what could go wrong?" or "how might this fail?", before committing
-  to a plan (a pre-mortem), when a forward problem is stuck ("how do we get more
-  X?"), when defining what to avoid or what to stop doing, or when a goal needs
-  protecting from catastrophe. Provides the Anti-goal, Failure Inversion, the
-  Jacobi reframe (solve the inverse problem), the Pre-mortem, and Via Negativa.
-  This is the backward lens that augments every stage — pair it with debono-decide
-  (anti-goal, pre-mortem), debono-explore (after PMI), and debono-act (de-risk the
-  plan). It is distinct from debono-create's Reversal, which flips direction to
-  generate ideas, not to avoid failure.
+description: 
+Inversion thinking — the 'think backward from failure' discipline of the mathematician Carl Jacobi ('invert, always invert') and Charlie Munger, added to the de Bono toolkit. Use whenever a choice carries real downside or risk, when someone asks 'what could go wrong?' or 'how might this fail?', before committing to a plan (a pre-mortem), when a forward problem is stuck ('how do we get more X?'), when defining what to avoid or what to stop doing, or when a goal needs protecting from catastrophe. Provides the Anti-goal, Failure Inversion, the Jacobi reframe (solve the inverse problem), the Pre-mortem, and Via Negativa. This is the backward lens that augments every stage — pair it with debono-decide  (anti-goal, pre-mortem), debono-explore (after PMI), and debono-act (de-risk the plan). It is distinct from debono-create's Reversal, which flips direction to  generate ideas, not to avoid failure.
 ---
 
 # De Bono — Invert (think backward from failure)
